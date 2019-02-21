@@ -1,0 +1,905 @@
+[
+  {
+    "legislation": "Dec. 2.162 de 01.05.40",
+    "dou": "04.05.40",
+    "validity": "08.07.40",
+    "coin": "MIL REIS",
+    "value": "240$000"
+  },
+  {
+    "legislation": "Dec. 5.670 de 15.07.43",
+    "dou": "17.07.43",
+    "validity": "17.07.43",
+    "coin": "Cr$",
+    "value": 300
+  },
+  {
+    "legislation": "Dec. 5.977 de 10.11.43",
+    "dou": "22.11.43",
+    "validity": "01.12.43",
+    "coin": "Cr$",
+    "value": 380
+  },
+  {
+    "legislation": "Dec.30.342 de 24.12.51",
+    "dou": "26.12.51",
+    "validity": "01.01.52",
+    "coin": "Cr$",
+    "value": "1.200,00"
+  },
+  {
+    "legislation": "Dec.35.450 de 01.05.54",
+    "dou": "04.05.54",
+    "validity": "04.07.54",
+    "coin": "Cr$",
+    "value": 2400
+  },
+  {
+    "legislation": "Dec.39.504-A de 14.07.56",
+    "dou": "16.07.56",
+    "validity": "01.08.56",
+    "coin": "Cr$",
+    "value": "3.800,00"
+  },
+  {
+    "legislation": "Dec.45.106-A de 24.12.58",
+    "dou": "27.12.58",
+    "validity": "01.01.59",
+    "coin": "Cr$",
+    "value": "6.000,00"
+  },
+  {
+    "legislation": "Dec.49.119-A de 15.10.60",
+    "dou": "18.10.60",
+    "validity": "18.10.60",
+    "coin": "Cr$",
+    "value": "9.600,00"
+  },
+  {
+    "legislation": "Dec. 51.336 de 13.10.61",
+    "dou": "13.10.61",
+    "validity": "16.10.61",
+    "coin": "Cr$",
+    "value": "13.440,00"
+  },
+  {
+    "legislation": "Dec. 51.613 de 03.12.62",
+    "dou": "04.12.62",
+    "validity": "01.01.63",
+    "coin": "Cr$",
+    "value": "21.000,00"
+  },
+  {
+    "legislation": "Dec. 53.578 de 21.02 64",
+    "dou": "21.02.64",
+    "validity": "24.02.64",
+    "coin": "Cr$",
+    "value": "42.000,00"
+  },
+  {
+    "legislation": "Dec. 55.803 de 26.02.65",
+    "dou": "26.02.65",
+    "validity": "01.03.65",
+    "coin": "Cr$",
+    "value": "66.000,00"
+  },
+  {
+    "legislation": "Dec.57.900 de 02.03.66",
+    "dou": "03.03.66",
+    "validity": "01.03.66",
+    "coin": "Cr$",
+    "value": "84.000,00"
+  },
+  {
+    "legislation": "Dec. 60.231 de 16.02.67",
+    "dou": "17.02.67",
+    "validity": "01.03.67",
+    "coin": "NCr$",
+    "value": 105
+  },
+  {
+    "legislation": "Dec. 62.461 de 25.03.68",
+    "dou": "26.03.68",
+    "validity": "26.03.68",
+    "coin": "NCr$",
+    "value": "129,6"
+  },
+  {
+    "legislation": "Dec. 64.442 de 01.05.69",
+    "dou": "02.05.69",
+    "validity": "01.05.69",
+    "coin": "NCr$",
+    "value": 156
+  },
+  {
+    "legislation": "Dec. 66.523 de 30.04.70",
+    "dou": "30.04.70",
+    "validity": "01.05.70",
+    "coin": "NCr$",
+    "value": "187,2"
+  },
+  {
+    "legislation": "Dec. 68.576 de 01.05.71",
+    "dou": "03.05.71",
+    "validity": "01.05.71",
+    "coin": "Cr$",
+    "value": "225,6"
+  },
+  {
+    "legislation": "Dec. 70.465 de 24.04.72",
+    "dou": "28.04.72",
+    "validity": "01.05.72",
+    "coin": "Cr$",
+    "value": "268,8"
+  },
+  {
+    "legislation": "Dec. 72.148 de 30.04.73",
+    "dou": "30.04.73",
+    "validity": "01.05.73",
+    "coin": "Cr$",
+    "value": 312
+  },
+  {
+    "legislation": "Dec. 73.995 de 29.04.74",
+    "dou": "30.04.74",
+    "validity": "01.05.74",
+    "coin": "Cr$",
+    "value": "376,8"
+  },
+  {
+    "legislation": "Dec. 75.045 de 05.12.74",
+    "dou": "08.12.74",
+    "validity": "01.12.74",
+    "coin": "Cr$",
+    "value": "415,2"
+  },
+  {
+    "legislation": "Dec. 75.679 de 29.04.75",
+    "dou": "30.04.75",
+    "validity": "01.05.75",
+    "coin": "Cr$",
+    "value": "532,8"
+  },
+  {
+    "legislation": "Dec. 77.510 de 29.04.76",
+    "dou": "29.04.76",
+    "validity": "01.05.76",
+    "coin": "Cr$",
+    "value": 768
+  },
+  {
+    "legislation": "Dec. 79.610 de 28.04.77",
+    "dou": "29.04.77",
+    "validity": "01.05.77",
+    "coin": "Cr$",
+    "value": "1.106,40"
+  },
+  {
+    "legislation": "Dec. 81.615 de 28.04.78",
+    "dou": "29.04.78",
+    "validity": "01.05.78",
+    "coin": "Cr$",
+    "value": "1.560,00"
+  },
+  {
+    "legislation": "Dec. 83.375 de 30.04.79",
+    "dou": "30.04.79",
+    "validity": "01.05.79",
+    "coin": "Cr$",
+    "value": "2.268,00"
+  },
+  {
+    "legislation": "Dec. 84.135 de 31.10.79",
+    "dou": "31.10.79",
+    "validity": "01.11.79",
+    "coin": "Cr$",
+    "value": "2.932,80"
+  },
+  {
+    "legislation": "Dec. 84.674 de 30.04.80",
+    "dou": "02.05.80",
+    "validity": "01.05.80",
+    "coin": "Cr$",
+    "value": "4.149,60"
+  },
+  {
+    "legislation": "Dec. 85.310 de 31.10.80",
+    "dou": "31.10.80",
+    "validity": "01.11.80",
+    "coin": "Cr$",
+    "value": "5.788,80"
+  },
+  {
+    "legislation": "Dec. 85.950 de 29.04.81",
+    "dou": "30.04.81",
+    "validity": "01.05.81",
+    "coin": "Cr$",
+    "value": "8.464,80"
+  },
+  {
+    "legislation": "Dec. 86.514 de 29.10.81",
+    "dou": "30.10.81",
+    "validity": "01.11.81",
+    "coin": "Cr$",
+    "value": "11.928,00"
+  },
+  {
+    "legislation": "Dec. 87.139 de 29.04.82",
+    "dou": "30.04.82",
+    "validity": "01.05.82",
+    "coin": "Cr$",
+    "value": "16.608,00"
+  },
+  {
+    "legislation": "Dec. 87.743 de 29.10.82",
+    "dou": "01.11.82",
+    "validity": "01.11.82",
+    "coin": "Cr$",
+    "value": "23.568,00"
+  },
+  {
+    "legislation": "Dec. 88.267 de 30.04.83",
+    "dou": "02.05.83",
+    "validity": "01.05.83",
+    "coin": "Cr$",
+    "value": "34.776,00"
+  },
+  {
+    "legislation": "Dec. 88.930 de 31.10.83",
+    "dou": "01.11.83",
+    "validity": "01.11.83",
+    "coin": "Cr$",
+    "value": "57.120,00"
+  },
+  {
+    "legislation": "Dec. 89.589 de 26.04.84",
+    "dou": "27.04.84",
+    "validity": "01.05.84",
+    "coin": "Cr$",
+    "value": "97.176,00"
+  },
+  {
+    "legislation": "Dec. 90.381 de 29.10.84",
+    "dou": "30.10.84",
+    "validity": "01.11.84",
+    "coin": "Cr$",
+    "value": "166.560,00"
+  },
+  {
+    "legislation": "Dec. 91.213 de 30.04.85",
+    "dou": "02.05.85",
+    "validity": "01.05.85",
+    "coin": "Cr$",
+    "value": "333.120,00"
+  },
+  {
+    "legislation": "Dec. 91.861 de 01.11.85",
+    "dou": "01.11.85",
+    "validity": "01.11.85",
+    "coin": "Cr$",
+    "value": "600.000,00"
+  },
+  {
+    "legislation": "Dec.Lei 2.284 de 10.03.86",
+    "dou": "11.03.86",
+    "validity": "01.03.86",
+    "coin": "Cz$",
+    "value": 804
+  },
+  {
+    "legislation": "Port. 3.019 de 03.02.87",
+    "dou": "05.02.87",
+    "validity": "01.01.87",
+    "coin": "Cz$",
+    "value": "964,8"
+  },
+  {
+    "legislation": "Dec. 94.062 de 27.02.87",
+    "dou": "04.03.87",
+    "validity": "01.03.87",
+    "coin": "Cz$",
+    "value": "1.368,00"
+  },
+  {
+    "legislation": "Port. 3.149 de 18.05.87",
+    "dou": "19.05.87",
+    "validity": "01.05.87",
+    "coin": "Cz$",
+    "value": "1.641,60"
+  },
+  {
+    "legislation": "Port. 3.175 de 12.06.87",
+    "dou": "17.06.87",
+    "validity": "01.06.87",
+    "coin": "Cz$",
+    "value": "1.969,92"
+  },
+  {
+    "legislation": "Dec.Lei 2.351(*) de 07.08.87",
+    "dou": "10.08.87",
+    "validity": "10.08.87",
+    "coin": "Cz$",
+    "value": "1.970,00"
+  },
+  {
+    "legislation": "Dec. 94.815(*) de 01.09.87",
+    "dou": "02.09.87",
+    "validity": "01.09.87",
+    "coin": "Cz$",
+    "value": "2.400,00"
+  },
+  {
+    "legislation": "Dec. 94.989(*) de 30.09.87",
+    "dou": "01.10.87",
+    "validity": "01.10.87",
+    "coin": "Cz$",
+    "value": "2.640,00"
+  },
+  {
+    "legislation": "Dec. 95.092(*) de 29.10.87",
+    "dou": "30.10.87",
+    "validity": "01.11.87",
+    "coin": "Cz$",
+    "value": "3.000,00"
+  },
+  {
+    "legislation": "Dec. 95.307(*) de 30.11.87",
+    "dou": "01.12.87",
+    "validity": "01.12.87",
+    "coin": "Cz$",
+    "value": "3.600,00"
+  },
+  {
+    "legislation": "Dec. 95.579(*) de 29.12.87",
+    "dou": "30.12.87",
+    "validity": "01.01.88",
+    "coin": "Cz$",
+    "value": "4.500,00"
+  },
+  {
+    "legislation": "Dec. 95.686(*) de 29.01.88",
+    "dou": "01.02.88",
+    "validity": "01.02.88",
+    "coin": "Cz$",
+    "value": "5.280,00"
+  },
+  {
+    "legislation": "Dec. 95.758(*) de 29.02.88",
+    "dou": "01.03.88",
+    "validity": "01.03.88",
+    "coin": "Cz$",
+    "value": "6.240,00"
+  },
+  {
+    "legislation": "Dec. 95.884(*) de 29.03.88",
+    "dou": "30.03.88",
+    "validity": "01.04.88",
+    "coin": "Cz$",
+    "value": "7.260,00"
+  },
+  {
+    "legislation": "Dec. 95.987(*) de 28.04.88",
+    "dou": "29.04.88",
+    "validity": "01.05.88",
+    "coin": "Cz$",
+    "value": "8.712,00"
+  },
+  {
+    "legislation": "Dec. 96.107(*) de 31.05.88",
+    "dou": "01.06.88",
+    "validity": "01.06.88",
+    "coin": "Cz$",
+    "value": "10.368,00"
+  },
+  {
+    "legislation": "Dec. 96.235(*) de 29.06.88",
+    "dou": "01.07.88",
+    "validity": "01.07.88",
+    "coin": "Cz$",
+    "value": "12.444,00"
+  },
+  {
+    "legislation": "Dec. 96.442(*) de 29.07.88",
+    "dou": "30.07.88",
+    "validity": "01.08.88",
+    "coin": "Cz$",
+    "value": "15.552,00"
+  },
+  {
+    "legislation": "Dec. 96.625(*) de 31.08.88",
+    "dou": "01.09.88",
+    "validity": "01.09.88",
+    "coin": "Cz$",
+    "value": "18.960,00"
+  },
+  {
+    "legislation": "Dec. 96.857(*) de 29.09.88",
+    "dou": "30.09.88",
+    "validity": "01.10.88",
+    "coin": "Cz$",
+    "value": "23.700,00"
+  },
+  {
+    "legislation": "Dec. 97.024(*) de 31.10.88",
+    "dou": "01.11.88",
+    "validity": "01.11.88",
+    "coin": "Cz$",
+    "value": "30.800,00"
+  },
+  {
+    "legislation": "Dec. 97.151(*) de 30.11.88",
+    "dou": "01.12.88",
+    "validity": "01.12.88",
+    "coin": "Cz$",
+    "value": "40.425,00"
+  },
+  {
+    "legislation": "Dec. 97.335(*) de 22.12.88",
+    "dou": "23.12.88",
+    "validity": "01.01.89",
+    "coin": "Cz$",
+    "value": "54.374,00"
+  },
+  {
+    "legislation": "Dec. 97.453(*) de 15.01.89",
+    "dou": "19.01.89",
+    "validity": "01.02.89",
+    "coin": "NCz$",
+    "value": "63,9"
+  },
+  {
+    "legislation": "Dec. 97.696(*) de 27.04.89",
+    "dou": "28.04.89",
+    "validity": "01.05.89",
+    "coin": "NCz$",
+    "value": "81,4"
+  },
+  {
+    "legislation": "Lei 7.789 de 03.07.89",
+    "dou": "04.07.89",
+    "validity": "01.06.89",
+    "coin": "NCz$",
+    "value": 120
+  },
+  {
+    "legislation": "Dec. 97.915 de 06.07.89",
+    "dou": "07.07.89",
+    "validity": "01.07.89",
+    "coin": "NCz$",
+    "value": "149,8"
+  },
+  {
+    "legislation": "Dec. 98.003 de 31.07.89",
+    "dou": "01.08.89",
+    "validity": "01.08.89",
+    "coin": "NCz$",
+    "value": "192,88"
+  },
+  {
+    "legislation": "Dec. 98.108 de 31.08.89",
+    "dou": "01.09.89",
+    "validity": "01.09.89",
+    "coin": "NCz$",
+    "value": "249,48"
+  },
+  {
+    "legislation": "Dec. 98.211 de 29.09.89",
+    "dou": "02.10.89",
+    "validity": "01.10.89",
+    "coin": "NCz$",
+    "value": "381,73"
+  },
+  {
+    "legislation": "Dec. 98.346 de 30.10.89",
+    "dou": "31.10.89",
+    "validity": "01.11.89",
+    "coin": "NCz$",
+    "value": "557,33"
+  },
+  {
+    "legislation": "Dec. 98.456 de 01.12.89",
+    "dou": "04.12.89",
+    "validity": "01.12.89",
+    "coin": "NCz$",
+    "value": "788,18"
+  },
+  {
+    "legislation": "Dec. 98.783 de 28.12.89",
+    "dou": "29.12.89",
+    "validity": "01.01.90",
+    "coin": "NCz$",
+    "value": "1.283,95"
+  },
+  {
+    "legislation": "Dec. 98.900 de 31.01.90",
+    "dou": "01.02.90",
+    "validity": "01.02.90",
+    "coin": "NCz$",
+    "value": "2.004,37"
+  },
+  {
+    "legislation": "Dec. 98.985 de 28.02.90",
+    "dou": "01.03.90",
+    "validity": "01.03.90",
+    "coin": "NCz$",
+    "value": "3.674,06"
+  },
+  {
+    "legislation": "Port. 3.143 de 23.04.90",
+    "dou": "24.04.90",
+    "validity": "01.04.90",
+    "coin": "Cr$",
+    "value": "3.674,06"
+  },
+  {
+    "legislation": "Port. 3.352 de 22.05.90",
+    "dou": "23.05.90",
+    "validity": "01.05.90",
+    "coin": "Cr$",
+    "value": "3.674,06"
+  },
+  {
+    "legislation": "Port. 3.387 de 01.06.90",
+    "dou": "04.06.90",
+    "validity": "01.06.90",
+    "coin": "Cr$",
+    "value": "3.857,76"
+  },
+  {
+    "legislation": "Port. 3.501 de 13.07.90",
+    "dou": "16.07.90",
+    "validity": "01.07.90",
+    "coin": "Cr$",
+    "value": "4.904,76"
+  },
+  {
+    "legislation": "Port. 3.557 de 13.08,90",
+    "dou": "14.08.90",
+    "validity": "01.08.90",
+    "coin": "Cr$",
+    "value": "5.203,46"
+  },
+  {
+    "legislation": "Port. 3.588 de 31.08.90",
+    "dou": "31.08.90",
+    "validity": "01.09.90",
+    "coin": "Cr$",
+    "value": "6.056,31"
+  },
+  {
+    "legislation": "Port. 3.628 de 28.09.90",
+    "dou": "01.10.90",
+    "validity": "01.10.90",
+    "coin": "Cr$",
+    "value": "6.425,14"
+  },
+  {
+    "legislation": "Port. 3.719 de 31.10.90",
+    "dou": "01.11.90",
+    "validity": "01.11.90",
+    "coin": "Cr$",
+    "value": "8.329,55"
+  },
+  {
+    "legislation": "Port. 3.787 de 30.11.90",
+    "dou": "03.12.90",
+    "validity": "01.12.90",
+    "coin": "Cr$",
+    "value": "8.836,82"
+  },
+  {
+    "legislation": "Port. 3.828 de 28.12.90",
+    "dou": "31.12.90",
+    "validity": "01.01.91",
+    "coin": "Cr$",
+    "value": "12.325,60"
+  },
+  {
+    "legislation": "MP. 295 de 31.01.91 (**)",
+    "dou": "01.02.91",
+    "validity": "01.02.91",
+    "coin": "Cr$",
+    "value": "15.895,46"
+  },
+  {
+    "legislation": "Lei 8.178 de 01.03.91",
+    "dou": "04.03.91",
+    "validity": "01.03.91",
+    "coin": "Cr$",
+    "value": "17.000,00"
+  },
+  {
+    "legislation": "Lei 8.222 de 05.09.91",
+    "dou": "06.09.91",
+    "validity": "01.09.91",
+    "coin": "Cr$",
+    "value": "42.000,00"
+  },
+  {
+    "legislation": "Port. 42 de 20.01.92",
+    "dou": "21.01.92",
+    "validity": "01.01.92",
+    "coin": "Cr$",
+    "value": "96.037,33"
+  },
+  {
+    "legislation": "Lei 8.419 de 07.05.92",
+    "dou": "08.05.92",
+    "validity": "01.05.92",
+    "coin": "Cr$",
+    "value": "230.000,00"
+  },
+  {
+    "legislation": "Port. 601 de 28.08.92",
+    "dou": "31.08.92",
+    "validity": "01.09.92",
+    "coin": "Cr$",
+    "value": "522.186,94"
+  },
+  {
+    "legislation": "Lei 8.542 de 23.12.92",
+    "dou": "24.12.92",
+    "validity": "01.01.93",
+    "coin": "Cr$",
+    "value": "1.250.700,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº 4 de 01.03.93",
+    "dou": "02.03.93",
+    "validity": "01.03.93",
+    "coin": "Cr$",
+    "value": "1.709.400,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº 7 de 03.05.93",
+    "dou": "04.05.93",
+    "validity": "01.05.93",
+    "coin": "Cr$",
+    "value": "3.303.300,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº 11 de 01.07.93",
+    "dou": "02.07.93",
+    "validity": "01.07.93",
+    "coin": "Cr$",
+    "value": "4.639.800,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº 12 de 02.08.93",
+    "dou": "03.08.93",
+    "validity": "01.08.93",
+    "coin": "CR$",
+    "value": "5.534,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº  14 de 01.09.93",
+    "dou": "02.09.93",
+    "validity": "01.09.93",
+    "coin": "CR$",
+    "value": "9.606,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº 15 de 01.10.93",
+    "dou": "04.10.93",
+    "validity": "01.10.93",
+    "coin": "CR$",
+    "value": "12.024,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº 17 de 29.10.93",
+    "dou": "03.11.93",
+    "validity": "01.11.93",
+    "coin": "CR$",
+    "value": "15.021,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº 19 de 01.12.93",
+    "dou": "02.12.93",
+    "validity": "01.12.93",
+    "coin": "CR$",
+    "value": "18.760,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº  20 de 30.12.93",
+    "dou": "31.12.93",
+    "validity": "01.01.94",
+    "coin": "CR$",
+    "value": "32.882,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº  2 de 1.2.94",
+    "dou": "02.02.94",
+    "validity": "01.02.94",
+    "coin": "CR$",
+    "value": "42.829,00"
+  },
+  {
+    "legislation": "Port.Interm.Nº  4 de 2/3/94",
+    "dou": "02.03.94",
+    "validity": "01.03.94",
+    "coin": "URV",
+    "value": "64,79"
+  },
+  {
+    "legislation": "Lei 8.880 de 27/05/94",
+    "dou": "28.05.94",
+    "validity": "01.07.94",
+    "coin": "R$",
+    "value": "64,79"
+  },
+  {
+    "legislation": "Med.Prov.N 598 de 31/08/94",
+    "dou": "01.09.94",
+    "validity": "01.09.94",
+    "coin": "R$",
+    "value": 70
+  },
+  {
+    "legislation": "Medid.Prov.N 637 de 29/09/94",
+    "dou": "30.09.94",
+    "validity": "01.09.94",
+    "coin": "R$",
+    "value": 70
+  },
+  {
+    "legislation": "Med.Prov. N 679 27/10/94",
+    "dou": "28.10.94",
+    "validity": "01.09.94",
+    "coin": "R$",
+    "value": 70
+  },
+  {
+    "legislation": "Lei 9.032,de 28/04/95",
+    "dou": "29.04.95",
+    "validity": "01.05.95",
+    "coin": "R$",
+    "value": 100
+  },
+  {
+    "legislation": "Med.Prov. N 1415 29/04/96",
+    "dou": "29.04.96",
+    "validity": "01.05.96",
+    "coin": "R$",
+    "value": 112
+  },
+  {
+    "legislation": "Med.Prov. N 1572 29/04/97",
+    "dou": "30.04.97",
+    "validity": "01.05.97",
+    "coin": "R$",
+    "value": 120
+  },
+  {
+    "legislation": "Med.Prov. N 1656 29/04/98",
+    "dou": "30.04.98",
+    "validity": "01.05.98",
+    "coin": "R$",
+    "value": 130
+  },
+  {
+    "legislation": "Med.Prov. N 1824 30/04/99",
+    "dou": "01.05.99",
+    "validity": "01.05.99",
+    "coin": "R$",
+    "value": 136
+  },
+  {
+    "legislation": "Med.Prov. N 2.019 23/03/2000",
+    "dou": "24.03.00",
+    "validity": "03.04.00",
+    "coin": "R$",
+    "value": 151
+  },
+  {
+    "legislation": "Med.Prov.Originº ria N 2.142 29/03/2001",
+    "dou": "30.03.01",
+    "validity": "01.04.01",
+    "coin": "R$",
+    "value": 180
+  },
+  {
+    "legislation": "Med.Prov. N 35 27/03/2002",
+    "dou": "28.03.02",
+    "validity": "01.04.02",
+    "coin": "R$",
+    "value": 200
+  },
+  {
+    "legislation": "Med.Prov. N116 02/04/2003",
+    "dou": "03.04.03",
+    "validity": "01.04.03",
+    "coin": "R$",
+    "value": 240
+  },
+  {
+    "legislation": "Med.Prov. N182 29/04/2004",
+    "dou": "30.04.04",
+    "validity": "01.05.04",
+    "coin": "R$",
+    "value": 260
+  },
+  {
+    "legislation": "Med.Prov. N248 20/04/2005",
+    "dou": "22.04.05",
+    "validity": "01.05.05",
+    "coin": "R$",
+    "value": 300
+  },
+  {
+    "legislation": "Med.Prov. N288 30/03/2006",
+    "dou": "31.03.06",
+    "validity": "01.04.06",
+    "coin": "R$",
+    "value": 350
+  },
+  {
+    "legislation": "Med.Prov. N362 16/05/2007",
+    "dou": "",
+    "validity": "01.04.07",
+    "coin": "R$",
+    "value": 380
+  },
+  {
+    "legislation": "Med.Prov. N421 29/02/2008",
+    "dou": "",
+    "validity": "01.03.08",
+    "coin": "R$",
+    "value": 415
+  },
+  {
+    "legislation": "Lei nº 11.709 de 28.05.2009",
+    "dou": "30.01.09",
+    "validity": "01.02.09",
+    "coin": "R$",
+    "value": 465
+  },
+  {
+    "legislation": "Lei nº 12.255 de 15.06.2010",
+    "dou": "23.12.09",
+    "validity": "01.01.10",
+    "coin": "R$",
+    "value": 510
+  },
+  {
+    "legislation": "Med.Prov. N516 30/12/2010",
+    "dou": "01.01.11",
+    "validity": "01.01.11",
+    "coin": "R$",
+    "value": 540
+  },
+  {
+    "legislation": "Lei nº 12.382 de 25.02.201",
+    "dou": "25.02.11",
+    "validity": "01.03.11",
+    "coin": "R$",
+    "value": 545
+  },
+  {
+    "legislation": "Decreto Nº  7.655 de 23.12.2011",
+    "dou": "23.12.11",
+    "validity": "01.01.12",
+    "coin": "R$",
+    "value": 622
+  },
+  {
+    "legislation": "Decreto Nº  7872 de 23.12.2012",
+    "dou": "26.12.12",
+    "validity": "01.01.13",
+    "coin": "R$",
+    "value": 678
+  },
+  {
+    "legislation": "Decreto Nº 8.166 de 23 .12.2013",
+    "dou": "24.12.13",
+    "validity": "01.01.14",
+    "coin": "R$",
+    "value": 724
+  },
+  {
+    "legislation": "Decreto Nº  8.381 de 29.12.2014",
+    "dou": "29.12.14",
+    "validity": "01.01.15",
+    "coin": "R$",
+    "value": 788
+  }
+]

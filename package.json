@@ -1,0 +1,11 @@
+{
+  "name": "minimum-wages-brazil",
+  "version": "1.0.0",
+  "description": "Data visualization about mininum wages in Brazil over time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Luĩsa Costa Pinto",
+  "license": "ISC"
+}
