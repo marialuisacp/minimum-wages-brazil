@@ -6,6 +6,12 @@
   stroke-linecap: round;
 }
 
+.dot {
+  fill: #f00;
+  stroke: #fff;
+  stroke-width: 1;
+}
+
 .x-axis .domain, .y-axis .domain {
   stroke: #5C6A79;
 }
