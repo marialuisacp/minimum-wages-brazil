@@ -11,7 +11,7 @@ const convertToReal = (coin, value, year) => {
   let newValue = value;
   switch (coin.toLowerCase()) {
     case 'mil reis':
-      newValue = parseFloat(value) / 0.123;
+      newValue = parseFloat(value) / Math.pow(1000, 3) * 0.123;
       break;
     case 'cr$':
       newValue = parseFloat(value) / Math.pow(1000, 5) * 2.75;
@@ -98,8 +98,7 @@ const render = (data) => {
     d.x = x(new Date(d.date));
     d.y = y(parseFloat(d.realValue));
 
-    if (d.y < 0)
-      d.y = d.y * -1;
+    if (d.y < 0) d.y = d.y * -1;
   };
 
   data.forEach((d) => defineAxis(d));

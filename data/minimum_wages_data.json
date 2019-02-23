@@ -896,10 +896,38 @@
     "value": 724
   },
   {
-    "legislation": "Decreto Nº  8.381 de 29.12.2014",
+    "legislation": "Decreto Nº 8.381 de 29.12.2014",
     "dou": "29.12.14",
     "validity": "01.01.15",
     "coin": "R$",
     "value": 788
+  },
+  {
+    "legislation": "Decreto 8.948/2016",
+    "dou": "30.12.2015",
+    "validity": "01.01.16",
+    "coin": "R$",
+    "value": "880,00"
+  },
+  {
+    "legislation": "Decreto 8.948/2016",
+    "dou": "30.12.2016",
+    "validity": "01.01.17",
+    "coin": "R$",
+    "value": "937,00"
+  },
+  {
+    "legislation": "Decreto 9.255/2017",
+    "dou": "29.12.2017",
+    "validity": "01.01.18",
+    "coin": "R$",
+    "value": "954,00"
+  },
+  {
+    "legislation": "Decreto 9.661/2019",
+    "dou": "01.01.2019",
+    "validity": "01.01.19",
+    "coin": "R$",
+    "value": "998,00"
   }
 ]
