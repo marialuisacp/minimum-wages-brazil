@@ -1,17 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans|Raleway');
+
+html, body {
+  background: #fafafa;
+}
+
+html, body *{
+  font-family: Lato, sans-serif;
+}
+
+h1,h2,h3,h4 {
+  font-family: Raleway, sans-serif;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: solid 1px #0077C0;
+  width: 90%;
+}
+
+.content {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
 .line {
   fill: none;
-  stroke: #f00;
+  stroke: #0077C0;
   stroke-width: 1;
   stroke-linejoin: round;
   stroke-linecap: round;
 }
 
 .dot {
-  fill: #f00;
+  fill: #0077C0;
   stroke: #fff;
-  stroke-width: 1;
+  stroke-width: 5;
 }
 
 .x-axis .domain, .y-axis .domain {
   stroke: #5C6A79;
+}
+
+.txt-value {
+  font-family: Raleway, sans-serif;
+  stroke: #0077C0;
+  font-size: 20px;
+}
+
+.txt-real-value {
+  
+}
+
+.txt-legislation {
+  font-size: 12px;
+}
+
+.txt-detail {
+  visibility: hidden;
+}
+
+.node:hover .txt-detail {
+  visibility: visible;
 }

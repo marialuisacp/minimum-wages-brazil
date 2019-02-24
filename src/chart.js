@@ -52,6 +52,20 @@ const convertData = (d) => {
   d.date = new Date(stringDate);
 };
 
+const getTextReal = (d) => {
+  if (d.coin === 'R$' || d.coin === 'URV')
+    return '';
+  return 'R$' + d.realValue
+};
+
+const getTextLegislation = (d) => (
+  d.legislation + ' '
+);
+
+const getTextDescription = (d) => (
+  d.coin + ' ' + d.value + ''
+);
+
 const render = (data) => {
 
   data.
@@ -61,7 +75,7 @@ const render = (data) => {
     });
 
   const margin = {
-    horizontal: 30,
+    horizontal: 90,
     vertical: 90
   };
 
@@ -75,7 +89,7 @@ const render = (data) => {
 
   const x = d3.scaleTime()
     .domain([minDate, maxDate])
-    .range([0, size.width]);
+    .range([0, size.width - margin.horizontal]);
 
   const y = d3.scaleLinear()
     .domain([1000, 0])
@@ -97,6 +111,7 @@ const render = (data) => {
   const defineAxis = (d) => {
     d.x = x(new Date(d.date));
     d.y = y(parseFloat(d.realValue));
+    d.id = d.validity;
 
     if (d.y < 0) d.y = d.y * -1;
   };
@@ -149,8 +164,29 @@ const render = (data) => {
 
   nodes.append('circle')
     .attr('id', (d) => d.id)
-    .attr('r', (d) => 3)
+    .attr('r', (d) => 10)
     .attr('class', 'dot');
+
+  nodes.append('text')
+    .attr('id', d => d.id + '-text-real')
+    .attr('class', 'txt-real-value txt-detail')
+    .attr('transform',
+      'translate(-50, -5)')
+    .text(d => getTextReal(d));
+
+  nodes.append('text')
+    .attr('id', d => d.id + '-text-value')
+    .attr('class', 'txt-value txt-detail')
+    .attr('transform',
+      'translate(-100, -35)')
+    .text(d => getTextDescription(d));
+
+  nodes.append('text')
+    .attr('id', d => d.id + '-text-legislation')
+    .attr('class', 'txt-legislation txt-detail')
+    .attr('transform',
+      'translate(-150, -60)')
+    .text(d => getTextLegislation(d));
 };
 
 d3.json(pathData).then(render);
