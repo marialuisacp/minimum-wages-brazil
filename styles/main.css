@@ -19,6 +19,19 @@ h1,h2,h3,h4 {
   width: 90%;
 }
 
+h1 {
+  color: #111;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+.title-coins {
+  color: #0EAC51;
+  border-bottom: solid 1px #0EAC51;
+}
+
 a {
   color: #0077C0;
   text-decoration: none;
@@ -31,7 +44,6 @@ a {
 
 #chart {
   overflow: hidden;
-  /* direction: rtl;  */
 }
 
 .grid .tick line, .domain {
@@ -49,14 +61,12 @@ a {
 
 .line {
   fill: none;
-  stroke: #0077C0;
   stroke-width: 1;
   stroke-linejoin: round;
   stroke-linecap: round;
 }
 
 .dot {
-  fill: #0077C0;
   stroke: #fff;
   stroke-width: 1;
 }
@@ -67,12 +77,23 @@ a {
 
 .txt-value {
   font-family: Raleway, sans-serif;
-  stroke: #0077C0;
   font-size: 20px;
 }
 
-.txt-real-value {
-  
+.txt-value-real, .line-real {
+  stroke: #0077C0;
+}
+
+.dot-real {
+  fill: #0077C0;
+}
+
+.txt-value-coins, .line-coins {
+  stroke: #0EAC51;
+}
+
+.dot-coins {
+  fill: #0EAC51;
 }
 
 .txt-legislation {

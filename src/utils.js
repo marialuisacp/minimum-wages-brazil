@@ -58,7 +58,7 @@ const convertData = (d) => {
 const getTextReal = (d) => {
   if (d.coin === 'R$' || d.coin === 'URV')
     return '';
-  return 'R$' + d.realValue
+  return 'R$ ' + d.realValue
 };
 
 const getTextLegislation = (d) => (
