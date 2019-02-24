@@ -1,4 +1,4 @@
-const pathData = '../data/minimum_wages_data.json';
+const pathData = 'data/minimum_wages_data.json';
 const parseDate = d3.timeFormat('%d-%m-%Y');
 
 const getItemsByTypeChart = (d, type) => {
