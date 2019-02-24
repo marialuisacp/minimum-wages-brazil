@@ -4,7 +4,6 @@ Estou desenvolvendo um pequeno experimento com dados do salário mínimo no Bras
 
 ![alt See a printscreen of a project](img/img.png)
 ![alt See a printscreen of a project](img/chart.gif)
-![alt See a printscreen of a project](img/img2.png)
 ![alt See a printscreen of a project](img/chart2.gif)
 
 Neste projeto consegui aplicar:
