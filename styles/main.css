@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans|Raleway');
 
-html, body {
+html {
+  border-top: solid 20px #0077C0;
   background: #fafafa;
+  padding: 50px auto;
 }
 
 html, body *{
@@ -9,6 +11,7 @@ html, body *{
 }
 
 h1,h2,h3,h4 {
+  color: #0077C0;
   font-family: Raleway, sans-serif;
   padding-bottom: 20px;
   margin-bottom: 20px;
@@ -16,9 +19,32 @@ h1,h2,h3,h4 {
   width: 90%;
 }
 
+a {
+  color: #0077C0;
+  text-decoration: none;
+}
+
 .content {
   max-width: 1100px;
   margin: 0 auto;
+}
+
+#chart {
+  overflow: hidden;
+  /* direction: rtl;  */
+}
+
+.grid .tick line, .domain {
+  stroke: #C5D3E2;
+  opacity: 0.4;
+}
+
+.y-axis line, .x-axis line{
+  stroke: #6C7A89;
+}
+
+.y-axis text, .x-axis text {
+  fill: #333;
 }
 
 .line {
@@ -32,11 +58,11 @@ h1,h2,h3,h4 {
 .dot {
   fill: #0077C0;
   stroke: #fff;
-  stroke-width: 5;
+  stroke-width: 1;
 }
 
 .x-axis .domain, .y-axis .domain {
-  stroke: #5C6A79;
+  stroke: #6C7A89;
 }
 
 .txt-value {

@@ -80,7 +80,7 @@ const render = (data) => {
   };
 
   const size = {
-    width: screen.width - margin.horizontal * 4,
+    width: screen.width - margin.horizontal * 2,
     height: 500
   };
 
@@ -129,7 +129,7 @@ const render = (data) => {
     .append('g')
     .attr('transform',
       'translate('
-      + margin.horizontal * 2
+      + margin.horizontal
       + ',' + margin.vertical + ')');
 
   svg.append('g')
@@ -152,6 +152,21 @@ const render = (data) => {
     .style('text-anchor', 'end')
     .text('R$');
 
+  svg.append('g')
+    .attr('class', 'grid')
+    .call(yAxis
+      .tickSize(-size.width, 0, 0)
+      .tickFormat('')
+    );
+
+  svg.append('g')
+    .attr('class', 'grid')
+    .attr('transform', 'translate(0,' + size.height + ')')
+    .call(xAxis
+      .tickSize(-size.height, 0, 0)
+      .tickFormat('')
+    );
+
   svg.append('path')
     .attr('class', 'line')
     .attr('d', line(data));
@@ -164,7 +179,7 @@ const render = (data) => {
 
   nodes.append('circle')
     .attr('id', (d) => d.id)
-    .attr('r', (d) => 10)
+    .attr('r', (d) => 6)
     .attr('class', 'dot');
 
   nodes.append('text')
